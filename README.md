@@ -8,7 +8,7 @@ Avaliar a aplicação dos conceitos fundamentais de sistemas pneumáticos e hidr
 
 **Valor total:** 10 pontos  
 **Grupo:** até 3 integrantes  
-**Formato de entrega:** PDF ou repositório GitHub com README.md  
+**Formato de entrega:** PDF ou DOC
 **Prazo de entrega:** 21/03/2025 até as 23h55  
 
 ---
