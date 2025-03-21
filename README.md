@@ -9,7 +9,7 @@ Avaliar a aplicação dos conceitos fundamentais de sistemas pneumáticos e hidr
 **Valor total:** 10 pontos  
 **Grupo:** até 3 integrantes  
 **Formato de entrega:** PDF ou repositório GitHub com README.md  
-**Prazo de entrega:** _[definir]_  
+**Prazo de entrega:** 21/03/2025 até as 23h55  
 
 ---
 
@@ -65,9 +65,7 @@ V = (Q × 0,25) / (n × ΔP)
 
 > Para grupos com mais de 1 integrante, use a **média aritmética** dos valores de n (arredondada).
 
-**Entregar:**
-- Cálculo completo
-- Justificativa de escolha de n com base nas matrículas dos integrantes
+
 
 ---
 
@@ -100,8 +98,12 @@ Explique a função de cada elemento e a sequência lógica de operação.
 
 ---
 
-## 📎 Dica
-Você pode criar um repositório no GitHub e entregar esta atividade como um README.md bem formatado, com imagens, tabelas e códigos. Use Markdown!
+## 📨 **Entregar:**
+- Deve ser feita pelo representante do grupo no Portal do Aluno;
+- Apresente o cálculo completo para as questões de desenvolvimento;
+- Justificativa de escolha de n com base nas matrículas dos integrantes;
+- Pode ser entregue em .doc ou .pdf.;
+- Não esqueça dos nomes e RMs dos integrantes.
 
 Boa sorte e caprichem! 💡💻
 
